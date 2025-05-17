@@ -1,0 +1,152 @@
+[
+  {
+    "name": "Stone Age",
+    "description": "Mine stone with your new pickaxe",
+    "category": "Minecraft"
+  },
+  {
+    "name": "Getting an Upgrade",
+    "description": "Construct a better pickaxe",
+    "category": "Minecraft"
+  },
+  {
+    "name": "Acquire Hardware",
+    "description": "Smelt an iron ingot",
+    "category": "Minecraft"
+  },
+  {
+    "name": "Suit Up",
+    "description": "Protect yourself with a piece of iron armor",
+    "category": "Minecraft"
+  },
+  {
+    "name": "Hot Stuff",
+    "description": "Fill a bucket with lava",
+    "category": "Minecraft"
+  },
+  {
+    "name": "Isn't It Iron Pick",
+    "description": "Upgrade your pickaxe",
+    "category": "Minecraft"
+  },
+  {
+    "name": "Not Today, Thank You",
+    "description": "Deflect an arrow with a shield",
+    "category": "Minecraft"
+  },
+  {
+    "name": "Ice Bucket Challenge",
+    "description": "Form and mine a block of obsidian",
+    "category": "Minecraft"
+  },
+  {
+    "name": "Diamonds!",
+    "description": "Acquire diamonds",
+    "category": "Minecraft"
+  },
+  {
+    "name": "We Need to Go Deeper",
+    "description": "Build, light and enter a Nether Portal",
+    "category": "Nether"
+  },
+  {
+    "name": "Subspace Bubble",
+    "description": "Use the Nether to travel 7 km in the Overworld",
+    "category": "Nether"
+  },
+  {
+    "name": "A Terrible Fortress",
+    "description": "Break your way into a Nether Fortress",
+    "category": "Nether"
+  },
+  {
+    "name": "Who is Cutting Onions?",
+    "description": "Obtain Crying Obsidian",
+    "category": "Nether"
+  },
+  {
+    "name": "Into Fire",
+    "description": "Relieve a Blaze of its rod",
+    "category": "Nether"
+  },
+  {
+    "name": "Local Brewery",
+    "description": "Brew a potion",
+    "category": "Nether"
+  },
+  {
+    "name": "Return to Sender",
+    "description": "Destroy a Ghast with a fireball",
+    "category": "Nether"
+  },
+  {
+    "name": "Those Were the Days",
+    "description": "Enter a Bastion Remnant",
+    "category": "Nether"
+  },
+  {
+    "name": "Hidden in the Depths",
+    "description": "Obtain Ancient Debris",
+    "category": "Nether"
+  },
+  {
+    "name": "Cover Me in Debris",
+    "description": "Get a full suit of Netherite armor",
+    "category": "Nether"
+  },
+  {
+    "name": "Spooky Scary Skeleton",
+    "description": "Obtain a Wither Skeleton's skull",
+    "category": "Nether"
+  },
+  {
+    "name": "Into the Fire",
+    "description": "Relieve a Blaze of its rod",
+    "category": "Nether"
+  },
+  {
+    "name": "A Furious Cocktail",
+    "description": "Have every potion effect applied at the same time",
+    "category": "Nether"
+  },
+  {
+    "name": "How Did We Get Here?",
+    "description": "Have every effect applied at the same time",
+    "category": "Nether"
+  },
+  {
+    "name": "The End?",
+    "description": "Enter the End Portal",
+    "category": "The End"
+  },
+  {
+    "name": "Free the End",
+    "description": "Kill the Ender Dragon",
+    "category": "The End"
+  },
+  {
+    "name": "The Next Generation",
+    "description": "Hold the Dragon Egg",
+    "category": "The End"
+  },
+  {
+    "name": "Remote Getaway",
+    "description": "Escape the End Island",
+    "category": "The End"
+  },
+  {
+    "name": "The End... Again...",
+    "description": "Respawn the Ender Dragon",
+    "category": "The End"
+  },
+  {
+    "name": "You Need a Mint",
+    "description": "Collect dragon's breath in a glass bottle",
+    "category": "The End"
+  },
+  {
+    "name": "Great View From Up Here",
+    "description": "Levitate up 50 blocks from the attacks of a Shulker",
+    "category": "The End"
+  }
+]
